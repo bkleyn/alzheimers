@@ -1,2 +1,1 @@
-# CS209a Project
-## Predicting Alzheimer's diagnosis
+#  Predicting Alzheimer's diagnosis and feature cost analysis
