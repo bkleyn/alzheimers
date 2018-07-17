@@ -1,0 +1,12 @@
+cat,MedicalCost,EarlyDetection,Invasiveness
+Cognitive tests,3,8,3
+Cognitive tests (ADAS),3,8,3
+CSF,5,3,8
+Demographics,5,5,2
+Family History,1,5,2
+Genetic markers,4,5,3
+MRI (Cross-sectional),5,4,6
+MRI measures,5,4,6
+PET (AV45 AMYLOID),7,3,6
+PET (FDG),7,3,6
+PET measures,7,3,6
